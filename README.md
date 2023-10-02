@@ -39,5 +39,3 @@ Si deseas contribuir a este proyecto, por favor, sigue los siguientes pasos:
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia relacionada con este proyecto, no dudes en ponerte en contacto con nuestro equipo a través de la siguiente dirección de correo electrónico: miradsharemusic@gmail.com
-
-¡Gracias por tu interés en nuestro proyecto de préstamos! Esperamos que sea de utilidad para el CIP y sus usuarios.
